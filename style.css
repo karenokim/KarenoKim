@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  height: 100vh;
+/*  display: flex;*/
+}
+
+main{
+    margin-right: 0px;
+  height: 10vh;
+/*  display: flex;*/
+  align-items: center;
+      top: 100px;
+}
+
+.image{
+    position: relative;
+/*    top: 50px;*/
+    width: 35%;
+    left: 750px;
+}
+
+.image:hover .overlay{
+  display: block;
+}
+.image1 {
+  display: block;
+}
+
+article{
+/*  align-items: center;*/
+  margin-left: 40px;
+/*  margin-top: -40px;*/
+/*  margin: auto;*/
+/*  margin-right: 180px;*/
+
+}
+
+p.j1{
+font-family: 'Roboto', sans-serif;
+font-size: 55pt;
+text-align: left;
+
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
