@@ -1,0 +1,43 @@
+body{
+  background: white;
+  height: 100vh;
+  margin: 0;
+}
+
+.col1{
+  position: fixed;
+  width: 50%;
+  float: left;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+
+.col2{
+  width: 50%;
+  float: right;
+}
+
+p.j1{
+font-family: 'Roboto', sans-serif;
+color: black;
+font-size: 55pt;
+line-height: 0.9;
+text-align: left;
+margin: 0;
+width: 700px;
+}
+
+p.j2{
+font-family: 'Roboto', sans-serif;
+color: black;
+font-size: 13pt;
+text-align: left;
+font-style: "light 300";
+margin: 0;
+width: 500px;
+}
+
+.mark{
+  color: yellow;
+}

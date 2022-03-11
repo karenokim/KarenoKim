@@ -2,6 +2,11 @@ body{
   background: black;
 }
 
+work 1:link {
+  color: black;
+  text-decoration: underline;
+}
+
 
 .col1{
 position: fixed;
