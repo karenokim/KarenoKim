@@ -15,7 +15,15 @@ body{
 
 .col2{
   width: 50%;
+  margin: auto;
   float: right;
+}
+
+.img{
+  width: 80%;
+  margin: auto;
+    margin-top: 3em;
+
 }
 
 p.j1{
